@@ -50,14 +50,3 @@ Allow feature to any custom post type for **[Category Post Slider and Grid Wordp
 
 **[Post slider wordpress plugin free](https://wordpress.org/plugins/post-slider-carousel-custom-post-grids/)** uses [OWL Carousel](https://owlcarousel2.github.io/OwlCarousel2/) **[Owl Carousel Post Slider Wordpress](https://wordpress.org/plugins/post-slider-carousel-custom-post-grids/)** in new version.
 
-
-
-== Installation ==
-
-1. Go to the Plugins Menu in WordPress
-2. Search for "Post Slider"
-3. Click "Install"
-4. Go to "Post Carousel" in your admin dashboard
-5. Press the "Add new" button 
-6. Configure your Setting
-7. Press "Update" button and copy & paste your shortcode
